@@ -1,6 +1,8 @@
 # Loops-Conditions
 Beetroot Academy - Lesson 27
 
+Live Page URL: https://mirinkakotze.github.io/Loops-Conditions/
+
 1. Write a program that requests a number from a user and finds the summation of every number from 1 to num. For example, for number 4 it is 1 + 2 + 3 + 4 = 10.
 2. Request two numbers and find only their largest common divisor.
 3. Request a number and display all the divisors of it. For example, for number 8 it would be 2, 4, and 8.
